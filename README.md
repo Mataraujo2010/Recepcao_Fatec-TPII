@@ -8,3 +8,9 @@ Para a criação da situação proposta, importamos a biblioteca (PySimpleGUI) e
 
 ![image](https://user-images.githubusercontent.com/100869628/224572838-d81f7ecc-561b-4206-a4a2-d298aea48ea5.png)
 
+![image](https://user-images.githubusercontent.com/100869628/224572944-3ed0cee1-d7a1-4e04-a7a9-d463662da9e5.png)
+
+![image](https://user-images.githubusercontent.com/100869628/224572958-50a5ddfe-9e8e-43f6-a739-71b229ffd3b6.png)
+
+![image](https://user-images.githubusercontent.com/100869628/224572999-d59e97ae-99f1-4ea1-a19a-343f31c4ebea.png)
+
